@@ -5,7 +5,8 @@
 
 This instument kit allowr the user to switch between three instuments - drums, guitar, and piano - while using their keyboard to play sounds of each instrument.
 
-## Tech Used : ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=appveyor)![CSS](https://img.shields.io/badge/-CSS-green?style=for-the-badge&logo=appveyor)![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=appveyor)
+## Tech Used :
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=appveyor)![CSS](https://img.shields.io/badge/-CSS-green?style=for-the-badge&logo=appveyor)![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=appveyor)
 
 ## Optimizations
 This project originally only had one instrument - the drums. However, in an effort ot better understand and utilize data attributes. I created a system to switch between the instrumentsand their sounds depending on the slide of the carousel.
